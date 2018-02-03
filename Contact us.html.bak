@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CONTACT US</title>
+		<link rel="stylesheet" type="text/css" href="Contactus.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<body>
+<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+<a class="navbar brand" href="#">BIZ KEYS GLOBAL</a>
+</div>
+<ul class="nav navbar-nav">
+	<li class="active"><a href="WELCOME.html">home</a></li>
+
+</ul>
+		</div>
+	</nav>
+	<p>For more information on BIZ KEYS or bookings contact us through the following links; </p>
+	<ol>
+		<a href="">www.BIZ KEYS.co.ke</a>
+		<br>
+		<br>
+		<a href="">www.BIZ KEYS.net</a>
+	<form><fieldset>
+	<legend>CONTACT US</legend>
+	<select size="2">
+		<option value="0790538659">0790538659</option>
+		<option value="0723474182">0723474182</option>
+		<option value="0790538630">0790538630</option>
+	</select>
+</fieldset></form>
+	<p>Reach us on email on <a href="">BIZ KEYS-GLOBAL@Gmail.com</a></p>
+	
+	
+</body>
+</html>

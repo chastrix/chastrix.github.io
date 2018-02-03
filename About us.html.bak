@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT US</title>
+	<link rel="stylesheet" type="text/css" href="Aboutus.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+</head>
+<style type="text/css">
+	body{background-color: grey;font-size: 16px; font-style: italic; color: blue}
+</style>
+<body>
+<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+<a class="navbar brand" href="#">BIZ KEYS-GLOBAL</a>
+</div>
+<ul class="nav navbar-nav">
+	<li class="active"><a href="WELCOME.html">home</a></li>
+
+</ul>
+		</div>
+	</nav>
+	<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-6">
+			<p>DREAMING TO ACHIEVE</p>
+			<p>
+<ol>
+Major problems that majorly involve the business sector involve transport, communication, internet access, mobile and immobile online application, relevant market, access to fast and  efficient network, resource persons in remote sectors.
+<u><b><p>	Solutions</p></b></u>
+Majorly in urban regions, the following solutions are highlighted to bring a change in the business sector through access to BIZ KEYS.
+<li>	Posting fast access routes to major and also minor business premises in the capital and also adding sub-articles to minor business and methods of access.</li>
+<li>	Appropriating links for faster wireless connection to major and minor business organizations inclusive of office contact lines, methods of appointment booking,information about business organizations and also sub-businesses that may be working inconjunction with them.</li>
+</ol>
+</p>
+		</div>
+		<marquee>BIZ KEYS  BIZ KEYS  BIZ KEYS YOUR BUSINESS IS OUR BUSINESS</marquee>
+		<div class="col-sm-8">
+			<p>
+				<p>	Other problems that are targeted by BIZ KEYS are as follows;</p>
+				<ol>
+<li>	Categorising easier organization business internet access links and also chat rooms to workers in the organization.Outside the business premises locals can access one on one orientation and talks to the organization with resource persons.</li>
+<li>	Online application can be possible through logging on to a business name once. This may incur costs internet costs but the user will have 24 hour access to the organization be it minor or major.</li>
+<li>Market can be accessed easily through linkings to majoly industries as tourism hospitality business management offices by advertisement.Also payment can be done on talk only conditions where business can be able to be advertised and managed through agreeable terms and conditions between organizations online.</li>
+<li>Fast and efficient network for organization users  can be made available for a specific period under the business terms.inclusive of that worker specification for various organizations can be highlighted and given by various organizations to potential employees.</li>
+<li>	In emergency cases access to resource  persons can be made available through online chatrooms specified by the organization even to those in remote areas.</li>
+TARGET AUDIENCE
+<p>White collar job-workers as well as small scale businesses inclusive of Jua Kali industries.</p></p>
+		</div>
+	</div>
+</div>
+</body>
+</html>

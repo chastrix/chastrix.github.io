@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BIZ KEYS</title>
+		<link rel="stylesheet" href="WELCOME.css">
+<link rel="stylesheet"  href="css/bootstrap.min.css">
+<style type="text/css">
+	#v{color: green}
+	body{background-image: url(picsd/b.jpg);}
+</style>
+</head>
+<body>
+<h1>WELCOME TO BIZ KEYS</h1>
+<P>Welcome to BIZ KEYS where your business is our business. Take a look around and find where your light will shine</P>
+<div>
+	If you are already a member please click at login.
+<a href="Login.html">LOGIN</a>
+	<br>
+<hr>
+<p>If you are a new member we gladly welcome you to BIZ KEYS.Please click at sign up below to register.</p>
+<a href="Sign up.html">SIGN UP</a>
+<marquee><b>FROM THIS MOMENT ON YOU SET YOUR LEGACY AND STAND AMONG THE GREATS AS ONE WHO DARED TO BELIEVE IN YOUR STRENGTH AND STAND OUT FROM THE CROWD.</b></marquee>
+<br>
+<br>
+<br>
+<br>
+<p id="v">___________________________________________________BIZ KEYS . WHERE YOUR BUSINESS BECOMES OUR BUSINESS________________________________________</p>
+</div>
+<div class="footer">Copyright&copy BIZ KEYS LEGACY</div>
+</body>
+</html>
